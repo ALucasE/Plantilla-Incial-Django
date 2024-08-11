@@ -46,4 +46,4 @@ This project is licensed under the MIT License.
 
 ---
 
-¡Gracias por visitar mi portafolio! Espero que disfrutes explorando mis proyectos.
+¡Gracias por visitar mi github! Espero que disfrutes explorando mis proyectos.
