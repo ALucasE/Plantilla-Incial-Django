@@ -53,7 +53,7 @@ This project is licensed under the MIT License.
 - **Correo Electrónico**: alucase@gmail.com
 - **LinkedIn**: [Lucas Acosta](https://www.linkedin.com/in/alucase/)
 - **GitHub**: [ALucasE](https://github.com/ALucasE)
-- **Web**: [alucase.github.io/](https://alucase.github.io/)
+- **Web**: [alucase.github.io](https://alucase.github.io/)
 
 ---
 
